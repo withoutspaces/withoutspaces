@@ -1,8 +1,7 @@
 ## 🐱‍👤 Olá, meu nome é Daniel Moreira
 <br>
 <p>📚 Estudante de Ciência da Computação na Universidade Federal de Alagoas</p>
-
-💼 Volutário no [Projeto TATU](https://projetotatu.com.br/)
+<p>💼 Voluntário no <a href="https://projetotatu.com.br/">Projeto TATU</a> </p>
 
 
 <br>
