@@ -7,9 +7,10 @@
 <br>
 
 
-<div style ="align-items: row">
+<div style ="display: flex; flex-direction: row;">
   <a href="https://github.com/withoutspaces">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withoutspaces&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withoutspaces&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=withoutspaces&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
  
  ## 
