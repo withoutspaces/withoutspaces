@@ -1,7 +1,7 @@
-## 🐱‍👤 Olá, meu nome é Daniel Moreira
+## 🐱‍👤 Hi, my name is Daniel Moreira
 <br>
-<p>📚 Estudante de Ciência da Computação na Universidade Federal de Alagoas</p>
-<p>💼 Voluntário no <a href="https://projetotatu.com.br/">Projeto TATU</a> </p>
+<p>📚 Computer Science student at Universidade Federal de Alagoas</p>
+<p>💼 Volunteer in the <a href="https://projetotatu.com.br/">Projeto TATU</a> </p>
 
 
 <br>
@@ -14,7 +14,7 @@
 </div>
  
  ## 
- ### 🔎 Estudando
+ ### 🔎 Studying
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +25,7 @@
 </div>
   
   ##
-  ### 📣 Redes Sociais
+  ### 📣 Social Media
   <br>
   <div>
     <a href = "mailto:dms@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
